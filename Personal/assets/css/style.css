@@ -1203,3 +1203,6 @@ section .container {
 #imgSSISmap{
   height: 250px;
 }
+#stage1er:hover{
+  color: black;
+}
