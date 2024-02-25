@@ -1206,3 +1206,20 @@ section .container {
 #stage1er:hover{
   color: black;
 }
+#stage2eme:hover{
+  color: black;
+}
+#logoDelphFiducaire
+{
+  width: 400px;
+}
+#ListeFichier{
+  width: 600px;
+}
+#ListeClient
+{
+  width: 600px;
+}
+#insertionClient{
+  width: 500px;
+}
